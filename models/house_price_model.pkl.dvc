@@ -1,0 +1,5 @@
+outs:
+- md5: 095b2f38070d22c6d6c16f7ac7f09d7c
+  size: 1087
+  hash: md5
+  path: house_price_model.pkl
